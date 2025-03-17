@@ -14,4 +14,4 @@
 - Team Contact approves the announcement blurbs
 - Tamsin shares the announcement blurbs with Comms 2 days before the announcement due date
 - Tamsin/Shawn sends out the announcement via the different channels.
-- For the full process see [Guidance — WAI announcements](https://docs.google.com/document/d/1OMGi-AawzOLrQvy9xwcerMxaiGVrZsh_VxUiRF2lnSk/edit?tab=t.0#heading=h.dv3iks9cmftm)
+- For the full process see [Guidance — WAI announcements (Team-only)](https://docs.google.com/document/d/1OMGi-AawzOLrQvy9xwcerMxaiGVrZsh_VxUiRF2lnSk/edit?tab=t.0#heading=h.dv3iks9cmftm)
