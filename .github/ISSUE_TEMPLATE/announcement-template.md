@@ -1,40 +1,73 @@
 ---
 name: Announcement Template
-about: Template for creating new documents to review
+about: Template for new documents to review / draft announcements
 title: Put the document title here
 labels: review
 assignees: tamsinewing555
 
 ---
 
-Use this template to add documents for review:
+## Document details
 
 - **Last published document:** [Title — YYYY Version][link]
+- **Version/Type of document**: [working draft?]
 - **W3C Staff Contact:** 
-- **Task Force:**
-- **Working Group:**
-- **Editor(s):**
+- **Task Force:** 
+- **Working Group:** 
+- **Editor(s):** 
+
+## Review
+
 - **Document: to review:** [link]
-- **Version/Type of document**: (For Review: [Title] First Working Draft?)
-- **Scope of review:** [Abstract and Intro only]
-- **Reviewer:** [name]
-- **Announcements needed?:**
-- **Announcement channels:**
-- **Target date for announcements:** 
-- **Final published document:** [link after review]
-- **Links to social media announcements:** [link after review]
+- **Scope of review:** [Abstract, Intro, Background?]
+- **Review to be provided via**: Google doc to Team Contact, then GitHub pull request?
+- **Reviewer:** Tamsin
+- **Date ready for review:** 
+
+## Announcement
+
+- **Announcement needed?:** 
+- **Announcement channels:** all?
+  - WAI email
+  - WAI news
+  - WAI LinkedIn
+  - WAI Mastodon
+  - W3C News
+- **Draft announcements blurbs to be provided:**  is Google doc okay? Or must it be in GitHub?
+- **Signatories on WAI email:**
+- **Target date for announcement:**  
+- **Date public feedback is due by:** 
+
+### Key messages
 
 Key messages for announcements:
 - ...
 
-Summary of changes since last publication:
+### Summary of changes since last publication
+
 - ...
 
-Review questions:
+### Review questions:
+- 
 - ...
 
-Related docs that need updating:
-- ...
+## Related docs that need updating
 
-Are other details needed? 
-Feel free to improve the template.
+- TF page?
+
+## Publication links
+
+- **Link to final published document:**
+- **Links to social media announcements:** [add links after posting]
+
+## Managing the review and publishing process
+
+- Date to give heads up to Comms by with details of upcoming announcement: a couple days beforehand is fine after the draft announcements are ready
+- Date the review feedback will be discussed with the groups:
+- Date the wording is likely to be finalized by the groups:
+- Date the announcement wording needs to be ready for review by Team Contact:
+- Date to share updated W3C News blurb wording with Comms so they can review a couple days beforehand:
+- Date the PRs for the WAI news blurb and the web page updates need to be committed for approval: 
+
+## Notes
+...
