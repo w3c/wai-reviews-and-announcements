@@ -34,7 +34,7 @@ assignees: tamsinewing555
   - WAI Mastodon
   - W3C News
 - **Draft announcements blurbs to be provided:**  is Google doc okay? Or must it be in GitHub?
-- **Signatories on WAI email:** (usually: TF facilitators, WG Chairs, Tam Contact, Kevin, Shawn]
+- **Signatories on WAI email:** (usually: TF facilitators, WG Chairs, Team Contact, Kevin, Shawn]
 - **Target date for announcement:**  
 - **Date public feedback is due by:** 
 
