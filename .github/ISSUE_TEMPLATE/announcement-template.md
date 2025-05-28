@@ -44,7 +44,7 @@ Key messages for announcements:
 - ...
 
 ### Summary of changes since last publication
-**sometimes these are in a chagnelog section of the document or in the STOD**
+**sometimes these are in a changelog section of the document or in the STOD**
 - ...
 
 ### Review questions:
